@@ -1,0 +1,6 @@
+{
+  "name": "Property Manager Hub",
+  "description": "Streamlined property management dashboard for automated rent collections, guaranteed owner payouts, maintenance tracking, and tenant communication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
